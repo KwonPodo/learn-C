@@ -1,6 +1,8 @@
 /**
  * 이중 연결 리스트 (Doubly Linked List)
  */
+#include <stdio.h>
+#include <stdlib.h>
 
 struct dnode {
     int data;

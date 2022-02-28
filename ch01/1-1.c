@@ -63,9 +63,9 @@ int main() {
 	int max;
 
 	printf("Find the biggest Int\n");
-	printf("a: "); scanf_s("%d", &a);
-	printf("b: "); scanf_s("%d", &b);
-	printf("c: "); scanf_s("%d", &c);
+	printf("a: "); scanf("%d", &a);
+	printf("b: "); scanf("%d", &b);
+	printf("c: "); scanf("%d", &c);
 	
 	max = max3(a, b, c);
 

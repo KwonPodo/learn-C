@@ -1,0 +1,19 @@
+11 17
+
+a b 4
+a c 1
+a d 2
+a e 3
+b f 4
+c d 2
+d f 4
+d g 4
+e f 4
+f j 2
+f k 4
+g h 3
+g i 3
+g j 4
+h i 2
+i j 2
+j k 1
